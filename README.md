@@ -1,4 +1,4 @@
-### Hi there 👋
+### Buenos días, me llamo Cristian:  https://linktr.ee/cristianramirezrodriguez
 
 <!--
 **cristianramirezrodriguez/cristianramirezrodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristianramirezrodriguez&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cristianramirezrodriguez&theme=default)
