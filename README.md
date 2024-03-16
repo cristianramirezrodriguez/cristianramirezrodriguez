@@ -1,5 +1,5 @@
 ### Buenos días, me llamo Cristian:  https://linktr.ee/cristianramirezrodriguez
-##I'm interested in computational physics and math/physics education
+*I'm interested in computational physics and math/physics education
 
 <!--
 **cristianramirezrodriguez/cristianramirezrodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
