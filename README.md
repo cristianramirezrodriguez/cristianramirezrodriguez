@@ -1,4 +1,6 @@
-### Buenos días, me llamo Cristian:  https://linktr.ee/cristianramirezrodriguez
+### Buenos días, me llamo Cristian:  
+## See my projects here: https://linktr.ee/cristianramirezrodriguez
+## See my resume here: https://cristianramirezrodriguez.github.io/resume/
 I'm interested in computational physics and math/physics education
 
 <!--
